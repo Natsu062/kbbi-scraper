@@ -18,5 +18,3 @@ const kbbi = require('kbbi-scraper');
 })()
 
 ```
-## 😃 **Thank You For Visiting!**
-* [`Buy Me A Coffee☕ ~ Saweria`](https://saweria.co/Natsu062)
